@@ -42,5 +42,5 @@ print("voce cometou: ", erros, " erro(s)")
 print("grafico da sua evolução a seguir: ")
 t.sleep(3)
 
-Grafico(tempo, tentou, erros) #cria o grafico
+Grafico(tempo, tentou, erros) #cria o grafico.
 
